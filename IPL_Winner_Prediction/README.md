@@ -6,4 +6,4 @@ We have tried to train the system based on previous match histories and other fa
 * Ajmain Inqiad Alam, CSE, BRAC University
 * [Mahfuzur Rahman](https://mahfuzasif.github.io/), CSE, BRAC University
 * Abdullah Umar Nasib, CSE, BRAC University
-* Ahanaf Alif., CSE, BRAC University
+* Ahanaf Alif, CSE, BRAC University
